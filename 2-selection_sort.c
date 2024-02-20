@@ -1,4 +1,5 @@
 #include "sort.h"
+
 /**
  * selection_sort - sorts all selecty like
  * @array: array to sort
